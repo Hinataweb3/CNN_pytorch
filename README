@@ -1,0 +1,8 @@
+CNN Model with Pytorch : 
+- tested with MNIST : 98.4% accurarcy
+- tested with CIFAR10 : 62% accurarcy
+
+TODO : 
+2 choices : 
+    - best one : upload nuscences or kitti dataset and train 
+    - or use cars of CIFAR10 to evaluate but not enough car faut d'autre classes : pietons, arbre ...
